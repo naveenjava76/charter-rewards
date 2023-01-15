@@ -1,0 +1,27 @@
+[
+  {
+    "customer_id": "1234",
+    "transaction_amount": 122,
+    "transaction_date": "2023-01-10"
+  },
+  {
+    "customer_id": "1234",
+    "transaction_amount": 111,
+    "transaction_date": "2023-02-12"
+  },
+  {
+    "customer_id": "3456",
+    "transaction_amount": 300.50,
+    "transaction_date": "2023-02-09"
+  },
+  {
+    "customer_id": "3456",
+    "transaction_amount": 100,
+    "transaction_date": "2023-02-10"
+  },
+  {
+    "customer_id": "7896",
+    "transaction_amount": -10,
+    "transaction_date": "2022-12-15"
+  }
+]

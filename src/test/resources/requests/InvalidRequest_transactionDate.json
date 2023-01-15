@@ -1,0 +1,11 @@
+[
+  {
+    "customer_id": "1234",
+    "transaction_amount": 122,
+    "transaction_date": "2023-01-10"
+  },
+  {
+    "customer_id": "2345",
+    "transaction_amount": 111
+  }
+]

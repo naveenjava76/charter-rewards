@@ -1,0 +1,4 @@
+{
+  "code": 400,
+  "message": "Input transactions has null or blank customer id"
+}
