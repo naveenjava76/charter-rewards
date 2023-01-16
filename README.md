@@ -1,6 +1,6 @@
 # Charter Spectrum Rewards Application
 ### End point : POST http://localhost:52415/v1/point_summary
-###Sample Request(Valid) :
+### Sample Request(Valid) :
 ```json
 [
     {
@@ -70,7 +70,7 @@
 ]
 ```
 
-###Sample Request(InValid) :
+### Sample Request(InValid) :
 ```json
 [
     {
